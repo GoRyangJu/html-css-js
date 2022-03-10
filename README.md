@@ -1,4 +1,4 @@
-# Html & Css
+# Html & Css & Js
 > [goryangju.github.io/html-css-js/](https://goryangju.github.io/html-css-js/)
 
 ## 기술
